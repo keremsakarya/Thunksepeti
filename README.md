@@ -1,9 +1,14 @@
-# React + Vite
+# Thunksepeti 🍕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project, resembling a small e-commerce site, allows users to add products to the cart along with their quantities, and in the cart, they can increase, decrease, or remove items.
 
-Currently, two official plugins are available:
+# Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Thunksepeti
+- React-Redux
+- Thunk
+- API Calls
+- Actions and Reducers
+
+# Screen GIF
+
+![0912](https://github.com/user-attachments/assets/2dbbe912-11e7-43f2-8d3f-99f80d5d522d)
